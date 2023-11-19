@@ -1,0 +1,21 @@
+.navHover:hover {
+    background-color: #0336FF;
+}
+
+.card-bg {
+    background-color: #0336FF;
+}
+
+.footer-card li {
+    list-style: none;
+
+}
+
+.footer-bg {
+    background-color: rgba(0, 0, 0, 0.68);
+}
+
+.ul-footer li {
+    list-style: none;
+    padding: 0px 5px 0px 5px;
+}
