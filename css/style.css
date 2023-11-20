@@ -19,3 +19,7 @@
     list-style: none;
     padding: 0px 5px 0px 5px;
 }
+
+.contact-card li {
+    list-style: none;
+}
